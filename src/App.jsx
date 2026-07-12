@@ -15,7 +15,7 @@ const defaultUsers =  [
       role: "Frontend Developer",
       department: "IT",
       salary: 35000,
-      email:"joshiprateek7974@gmail.com",
+      email:"vijaypatidar@fakemail.com",
       isActive: true
     },
     {
@@ -26,7 +26,7 @@ const defaultUsers =  [
       role: "Fullstack developer",
       department: "IT",
       salary: 350000,
-      email:"rahulsdfghdfgdfg07@gmail.com",
+      email:"rahulsharmaaaaa@fakemail.com",
       isActive: true
     },
     {
@@ -37,42 +37,10 @@ const defaultUsers =  [
       role: "Data Analyst",
       department: "IT",
       salary: 25000,
-      email:"rohitdatasfgdhgcyr@gmail.com",
+      email:"rohitdata@fakemail.com",
       isActive: false
     },
-       {
-      id: nanoid(),
-      name: "Rohit Sharma",
-      image: "https://images.unsplash.com/photo-1640531005376-4bd5aacd57c6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      age: 26,
-      role: "Data Analyst",
-      department: "IT",
-      salary: 25000,
-      email:"rohitdatasfgdhgcyr@gmail.com",
-      isActive: false
-    },
-       {
-      id: nanoid(),
-      name: "Rohit Sharma",
-      image: "https://images.unsplash.com/photo-1640531005376-4bd5aacd57c6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      age: 26,
-      role: "Data Analyst",
-      department: "IT",
-      salary: 25000,
-      email:"rohitdatasfgdhgcyr@gmail.com",
-      isActive: false
-    },
-       {
-      id: nanoid(),
-      name: "Rohit Sharma",
-      image: "https://images.unsplash.com/photo-1640531005376-4bd5aacd57c6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      age: 26,
-      role: "Data Analyst",
-      department: "IT",
-      salary: 25000,
-      email:"rohitdatasfgdhgcyr@gmail.com",
-      isActive: false
-}]
+   ]
 
 const App = () => { 
 
